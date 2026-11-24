@@ -1,0 +1,1 @@
+core_files = files('lexer.cpp', 'lexer.h')
