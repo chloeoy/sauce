@@ -3,6 +3,8 @@
 
 #include <string>
 
-
+namespace Lexer{
+    void lex_file(std::ifstream &filestream);
+}
 
 #endif

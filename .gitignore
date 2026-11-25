@@ -1,0 +1,3 @@
+gitexclude/*
+.vscode/*
+*.sh
